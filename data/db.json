@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "qwe",
+      "body": "lorem-ipsum...",
+      "author": "aa",
+      "id": 1
+    },
+    {
+      "title": "asd",
+      "body": "dsafg",
+      "author": "bb",
+      "id": 2
+    },
+    {
+      "title": "zxc",
+      "body": "dasfg",
+      "author": "cc",
+      "id": 3
+    }
+  ]
+}
